@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 editing this file to check merging
+=======
+editig
+>>>>>>> 15b14810e0a572482782bf14671f75179d86f2a1

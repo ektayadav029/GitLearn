@@ -1,1 +1,2 @@
-editing this file to check merging
+
+conflicts resolved
